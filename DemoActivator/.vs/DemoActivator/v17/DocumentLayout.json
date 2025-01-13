@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KINGLY-BL\\Downloads\\DemoActivator\\DemoActivator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12299DCB-70C7-47E1-839D-9C7429425A19}|DemoActivator\\DemoActivator.csproj|c:\\users\\kingly-bl\\downloads\\demoactivator\\demoactivator\\demoactivator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12299DCB-70C7-47E1-839D-9C7429425A19}|DemoActivator\\DemoActivator.csproj|solutionrelative:demoactivator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KINGLY-BL\\Downloads\\DemoActivator\\DemoActivator\\DemoActivator\\Form1.cs",
+              "RelativeDocumentMoniker": "DemoActivator\\Form1.cs",
+              "ToolTip": "C:\\Users\\KINGLY-BL\\Downloads\\DemoActivator\\DemoActivator\\DemoActivator\\Form1.cs [Design]",
+              "RelativeToolTip": "DemoActivator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T03:21:03.219Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+D:\KINGLY\GoogleDrive\IT-STEP-Cambodia\ADO.NET Access Technology\Full Time\DemoActivator\DemoClient\DemoClient\bin\Debug\DemoClient.exe.config
+D:\KINGLY\GoogleDrive\IT-STEP-Cambodia\ADO.NET Access Technology\Full Time\DemoActivator\DemoClient\DemoClient\bin\Debug\DemoClient.exe
+D:\KINGLY\GoogleDrive\IT-STEP-Cambodia\ADO.NET Access Technology\Full Time\DemoActivator\DemoClient\DemoClient\bin\Debug\DemoClient.pdb
+D:\KINGLY\GoogleDrive\IT-STEP-Cambodia\ADO.NET Access Technology\Full Time\DemoActivator\DemoClient\DemoClient\obj\Debug\DemoClient.csprojAssemblyReference.cache
+D:\KINGLY\GoogleDrive\IT-STEP-Cambodia\ADO.NET Access Technology\Full Time\DemoActivator\DemoClient\DemoClient\obj\Debug\DemoClient.Form1.resources
+D:\KINGLY\GoogleDrive\IT-STEP-Cambodia\ADO.NET Access Technology\Full Time\DemoActivator\DemoClient\DemoClient\obj\Debug\DemoClient.Properties.Resources.resources
+D:\KINGLY\GoogleDrive\IT-STEP-Cambodia\ADO.NET Access Technology\Full Time\DemoActivator\DemoClient\DemoClient\obj\Debug\DemoClient.csproj.GenerateResource.cache
+D:\KINGLY\GoogleDrive\IT-STEP-Cambodia\ADO.NET Access Technology\Full Time\DemoActivator\DemoClient\DemoClient\obj\Debug\DemoClient.exe
+D:\KINGLY\GoogleDrive\IT-STEP-Cambodia\ADO.NET Access Technology\Full Time\DemoActivator\DemoClient\DemoClient\obj\Debug\DemoClient.pdb
+D:\KINGLY\GoogleDrive\IT-STEP-Cambodia\ADO.NET Access Technology\Full Time\DemoActivator\DemoClient\DemoClient\obj\Debug\DemoClient.frmSplash.resources
+C:\Users\KINGLY-BL\Downloads\DemoActivator\DemoClient\DemoClient\bin\Debug\DemoClient.exe.config
+C:\Users\KINGLY-BL\Downloads\DemoActivator\DemoClient\DemoClient\bin\Debug\DemoClient.exe
+C:\Users\KINGLY-BL\Downloads\DemoActivator\DemoClient\DemoClient\bin\Debug\DemoClient.pdb
+C:\Users\KINGLY-BL\Downloads\DemoActivator\DemoClient\DemoClient\obj\Debug\DemoClient.csproj.AssemblyReference.cache
+C:\Users\KINGLY-BL\Downloads\DemoActivator\DemoClient\DemoClient\obj\Debug\DemoClient.Form1.resources
+C:\Users\KINGLY-BL\Downloads\DemoActivator\DemoClient\DemoClient\obj\Debug\DemoClient.frmSplash.resources
+C:\Users\KINGLY-BL\Downloads\DemoActivator\DemoClient\DemoClient\obj\Debug\DemoClient.Properties.Resources.resources
+C:\Users\KINGLY-BL\Downloads\DemoActivator\DemoClient\DemoClient\obj\Debug\DemoClient.csproj.GenerateResource.cache
+C:\Users\KINGLY-BL\Downloads\DemoActivator\DemoClient\DemoClient\obj\Debug\DemoClient.csproj.CoreCompileInputs.cache
+C:\Users\KINGLY-BL\Downloads\DemoActivator\DemoClient\DemoClient\obj\Debug\DemoClient.exe
+C:\Users\KINGLY-BL\Downloads\DemoActivator\DemoClient\DemoClient\obj\Debug\DemoClient.pdb

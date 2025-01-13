@@ -1,0 +1,19 @@
+D:\KINGLY\GoogleDrive\IT-STEP-Cambodia\ADO.NET Access Technology\Full Time\DemoActivator\DemoActivator\DemoActivator\bin\Debug\DemoActivator.exe.config
+D:\KINGLY\GoogleDrive\IT-STEP-Cambodia\ADO.NET Access Technology\Full Time\DemoActivator\DemoActivator\DemoActivator\bin\Debug\DemoActivator.exe
+D:\KINGLY\GoogleDrive\IT-STEP-Cambodia\ADO.NET Access Technology\Full Time\DemoActivator\DemoActivator\DemoActivator\bin\Debug\DemoActivator.pdb
+D:\KINGLY\GoogleDrive\IT-STEP-Cambodia\ADO.NET Access Technology\Full Time\DemoActivator\DemoActivator\DemoActivator\obj\Debug\DemoActivator.csprojAssemblyReference.cache
+D:\KINGLY\GoogleDrive\IT-STEP-Cambodia\ADO.NET Access Technology\Full Time\DemoActivator\DemoActivator\DemoActivator\obj\Debug\DemoActivator.Form1.resources
+D:\KINGLY\GoogleDrive\IT-STEP-Cambodia\ADO.NET Access Technology\Full Time\DemoActivator\DemoActivator\DemoActivator\obj\Debug\DemoActivator.Properties.Resources.resources
+D:\KINGLY\GoogleDrive\IT-STEP-Cambodia\ADO.NET Access Technology\Full Time\DemoActivator\DemoActivator\DemoActivator\obj\Debug\DemoActivator.csproj.GenerateResource.cache
+D:\KINGLY\GoogleDrive\IT-STEP-Cambodia\ADO.NET Access Technology\Full Time\DemoActivator\DemoActivator\DemoActivator\obj\Debug\DemoActivator.exe
+D:\KINGLY\GoogleDrive\IT-STEP-Cambodia\ADO.NET Access Technology\Full Time\DemoActivator\DemoActivator\DemoActivator\obj\Debug\DemoActivator.pdb
+C:\Users\KINGLY-BL\Downloads\DemoActivator\DemoActivator\DemoActivator\bin\Debug\DemoActivator.exe.config
+C:\Users\KINGLY-BL\Downloads\DemoActivator\DemoActivator\DemoActivator\bin\Debug\DemoActivator.exe
+C:\Users\KINGLY-BL\Downloads\DemoActivator\DemoActivator\DemoActivator\bin\Debug\DemoActivator.pdb
+C:\Users\KINGLY-BL\Downloads\DemoActivator\DemoActivator\DemoActivator\obj\Debug\DemoActivator.csproj.AssemblyReference.cache
+C:\Users\KINGLY-BL\Downloads\DemoActivator\DemoActivator\DemoActivator\obj\Debug\DemoActivator.Form1.resources
+C:\Users\KINGLY-BL\Downloads\DemoActivator\DemoActivator\DemoActivator\obj\Debug\DemoActivator.Properties.Resources.resources
+C:\Users\KINGLY-BL\Downloads\DemoActivator\DemoActivator\DemoActivator\obj\Debug\DemoActivator.csproj.GenerateResource.cache
+C:\Users\KINGLY-BL\Downloads\DemoActivator\DemoActivator\DemoActivator\obj\Debug\DemoActivator.csproj.CoreCompileInputs.cache
+C:\Users\KINGLY-BL\Downloads\DemoActivator\DemoActivator\DemoActivator\obj\Debug\DemoActivator.exe
+C:\Users\KINGLY-BL\Downloads\DemoActivator\DemoActivator\DemoActivator\obj\Debug\DemoActivator.pdb
